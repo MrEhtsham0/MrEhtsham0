@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning How to develop Production level Models
 - 💞️ I’m looking to collaborate on Big Companies.
 - 📫 How to reach me... You can reach me through my GitHub profile (@MrEhtsham0).
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...Ehtsham
 - ⚡ Fun fact: ...Excellence is not being the best, it is doing your best.
 
 <!---
