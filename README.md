@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Langgraph in Generative AI<br>I'm passionate Data scientist and AI Engineer<br> I’m looking to collaborate on Big Tech Companies.<br> Fun fact: ...Excellence is not being the best, it is doing your best.<br>
+I'm passionate AI Engineer<br> I’m looking to collaborate on Big Tech Companies.<br> Fun fact: ...Excellence is not being the best, it is doing your best.<br>
 
 
 ## 🌐 Socials:
